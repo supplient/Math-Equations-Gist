@@ -31,4 +31,4 @@ $$
 RS = WV^*V\sqrt{D}V^* = W\sqrt{D}V^* = A
 $$
 
-And apparently, S is a symmetric matrix, and R is an or
+And apparently, S is a symmetric matrix, and R is an orthogonal matrix. So $ A=RS $ is a polar decomposition.
